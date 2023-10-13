@@ -1,0 +1,38 @@
+.bg-Container {
+  background-color: #e2a139;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 50px;
+  margin: 30px;
+}
+.Container {
+  background-color: #ffffff;
+  text-align: center;
+  height: 400px;
+  width: 300px;
+}
+.button1 {
+  background-color: #e2a139;
+  color: #a35200;
+  border: none;
+  height: 40px;
+  width: 110px;
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+.para {
+  padding: 10px;
+  margin: 10px;
+}
+.image {
+  height: 170px;
+  width: 130px;
+}
